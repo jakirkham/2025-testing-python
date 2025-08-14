@@ -1,0 +1,6 @@
+/*
+ *  In ordered & unorded lists, increase font size.
+ */
+.rise-enabled ol, .rise-enabled ul {
+    font-size: 1.4rem;
+}
