@@ -11,3 +11,10 @@
 .rise-enabled table {
     font-size: 1.4rem;
 }
+
+/*
+ *  In general text, increase font size.
+ */
+.rise-enabled p {
+    font-size: 1.4rem;
+}
