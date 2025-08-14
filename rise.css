@@ -4,3 +4,10 @@
 .rise-enabled ol, .rise-enabled ul {
     font-size: 1.4rem;
 }
+
+/*
+ *  In tables, increase font size.
+ */
+.rise-enabled table {
+    font-size: 1.4rem;
+}
